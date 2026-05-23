@@ -11,3 +11,4 @@ best_models_cnn_sgd/
 best_models_cnn_mom/
 __pycache__/
 *.pyc
+report.md
