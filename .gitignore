@@ -1,0 +1,13 @@
+dataset/
+*.pickle
+*.png
+*.pdf
+analysis_output/
+best_models/
+best_models_cnn/
+best_models_mlp_sgd/
+best_models_mlp_mom/
+best_models_cnn_sgd/
+best_models_cnn_mom/
+__pycache__/
+*.pyc
